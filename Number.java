@@ -18,7 +18,8 @@ public class Number {
         } else {
             System.out.println("The number is zero.");
         }
-
+        System.out.println("on master branch");
+        System.out.println("on master branch");
         scanner.close();
     }
 }
